@@ -1,7 +1,7 @@
 # Multivariate-Antibiotic-Prediction-Model-Custom-cnn-
 Multivariate Antibiotic Prediction Model (Custom cnn)
 Due to the large number of datasets and the huge exe program, we have decided to upload the datasets
-Link: https://pan.baidu.com/s/14alwxrGsbZtbCLJeqGbG_Q?pwd=rb88 extraction code: rb88
+Link: https://pan.baidu.com/s/1O-zwqWeRGm-s-AZ4RPzn0A?pwd=5dpx， Extraction code: 5dpx
 
 
 # CNN for Multi-Metric Image Regression
